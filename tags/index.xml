@@ -5,28 +5,10 @@
     <link>https://aephidayatuloh.github.io/tags/</link>
     <description>Recent content in Tags on Rticles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 22:21:42 +0100</lastBuildDate>
     
 	<atom:link href="https://aephidayatuloh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>cooking</title>
-      <link>https://aephidayatuloh.github.io/tags/cooking/</link>
-      <pubDate>Wed, 19 Dec 2018 22:32:19 +0100</pubDate>
-      
-      <guid>https://aephidayatuloh.github.io/tags/cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health</title>
-      <link>https://aephidayatuloh.github.io/tags/health/</link>
-      <pubDate>Wed, 19 Dec 2018 22:32:19 +0100</pubDate>
-      
-      <guid>https://aephidayatuloh.github.io/tags/health/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>free</title>
@@ -61,6 +43,15 @@
       <pubDate>Sun, 16 Dec 2018 22:34:04 +0100</pubDate>
       
       <guid>https://aephidayatuloh.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://aephidayatuloh.github.io/tags/health/</link>
+      <pubDate>Sun, 16 Dec 2018 22:34:04 +0100</pubDate>
+      
+      <guid>https://aephidayatuloh.github.io/tags/health/</guid>
       <description></description>
     </item>
     

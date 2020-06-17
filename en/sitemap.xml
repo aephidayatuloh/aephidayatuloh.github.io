@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://aephidayatuloh.github.io/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -38,7 +38,7 @@
   
   <url>
     <loc>https://aephidayatuloh.github.io/posts/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -122,81 +122,6 @@
   </url>
   
   <url>
-    <loc>https://aephidayatuloh.github.io/tags/cooking/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://aephidayatuloh.github.io/id/tags/cooking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://aephidayatuloh.github.io/de/tags/cooking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aephidayatuloh.github.io/tags/cooking/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aephidayatuloh.github.io/tags/health/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://aephidayatuloh.github.io/id/tags/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://aephidayatuloh.github.io/de/tags/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aephidayatuloh.github.io/tags/health/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aephidayatuloh.github.io/posts/game-websites/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://aephidayatuloh.github.io/id/posts/game-websites/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aephidayatuloh.github.io/posts/game-websites/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aephidayatuloh.github.io/tags/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://aephidayatuloh.github.io/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://aephidayatuloh.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aephidayatuloh.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://aephidayatuloh.github.io/posts/16-things-free-songs/</loc>
     <lastmod>2018-12-17T22:21:42+01:00</lastmod>
     <xhtml:link
@@ -272,6 +197,26 @@
   </url>
   
   <url>
+    <loc>https://aephidayatuloh.github.io/tags/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://aephidayatuloh.github.io/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://aephidayatuloh.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aephidayatuloh.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aephidayatuloh.github.io/tags/architecture/</loc>
     <lastmod>2018-12-16T22:34:04+01:00</lastmod>
     <xhtml:link
@@ -288,6 +233,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aephidayatuloh.github.io/tags/architecture/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aephidayatuloh.github.io/tags/health/</loc>
+    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://aephidayatuloh.github.io/id/tags/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://aephidayatuloh.github.io/de/tags/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aephidayatuloh.github.io/tags/health/"
                 />
   </url>
   
